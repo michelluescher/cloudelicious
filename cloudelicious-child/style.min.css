@@ -1,0 +1,5 @@
+/*back to top arrow at down right corner*/
+.generate-back-to-top, .generate-back-to-top:visited{
+	bottom: 65px !important;
+	right: 65px !important;
+}
